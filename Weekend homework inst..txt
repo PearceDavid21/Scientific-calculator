@@ -1,0 +1,5 @@
+Week 1 Weekend
+
+Continuation of day 4 calculator homework, application allow for scientific calculator functions(cos, sqr, sin etc) when screen orientation is changed to landscape.
+
+Use ConstraintLayout for scientific calculator layout
